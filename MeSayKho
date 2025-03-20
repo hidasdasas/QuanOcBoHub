@@ -1,4 +1,5 @@
 --Quan OcBoHub working on here
+setclipboard("Quan Say gex")
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 player.CameraMode = Enum.CameraMode.Classic
